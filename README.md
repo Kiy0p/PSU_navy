@@ -9,4 +9,4 @@ The goal was to make a navy game. You play vs an other player and the first one 
 You play on 2 different terminals, signals are used to communicate in between terminals.
 You must give maps to the program, I have sampled maps in the directory maps, but you can make any of your own. If you do so, make sure to not add an end of line to the last line, copy my examples.
 
-Have fun!
+Have fun and don't forget to star!
